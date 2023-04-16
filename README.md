@@ -6,6 +6,7 @@
 | 是否开源 | 完全开源 | 部分开源，部分代码需要绑定域名运行 |
 | 项目定位 | 个人自用或小范围分享，对服务器资源要求低 | 商业化运营，支持用户付费使用，对服务器资源要求高一些 |
 | 问答速度 | stream流模式，session传递问题和上下文，无需数据库，但多人同时使用时可能会卡顿 | stream流模式极速版，更多异常和超时处理机制，数据库传递问题和上下文，多人使用不卡顿 |
+| 问答历史 | 不支持用户查看自己的历史对话，仅展示当前对话，管理员可以查看所有用户历史对话 | 用户可以查看自己的所有对话记录，可以切换到任意一个话题的上下文中继续提问 |
 | 支持会员 | 不支持 | 支持会员和提供付费业务 |
 | API_KEY数量 | 只能配置一个 | 可以配置无数个，自动轮询，自动剔除无效API_KEY |
 | 前端界面 | 默认深色背景风格 | 默认浅色背景风格，未来将支持多种风格随意替换 |
@@ -39,17 +40,20 @@
 
 测试网址和购买方式请进群获取，每个用户免费提问10次，欢迎测试并提出宝贵意见。
 
-**前台界面截图如下：**
+请有购买意愿的朋友加群咨询，名额有限，欲购从速。
+
+![qrcode](https://user-images.githubusercontent.com/5563148/232329409-5fe924a3-fa7d-4612-b401-a0a0669eff2d.jpg)
+
+
+**前台界面截图如下（目前界面比较简单，后续会不断改进，欢迎大家提供好看的前端用来借鉴。）：**
 
 PC端：
-
-![1](https://user-images.githubusercontent.com/5563148/232328735-412a2910-354d-4c05-99af-d6b9650a94c2.png)
+![1](https://user-images.githubusercontent.com/5563148/232329428-0388ce16-99a6-4601-9672-dc75105e5a63.png)
 ![2](https://user-images.githubusercontent.com/5563148/232328747-ba4d9e6a-c003-4eee-840c-fdc2219a9b9e.png)
 ![3](https://user-images.githubusercontent.com/5563148/232328749-34cb8beb-74d0-47ca-a5e4-297d584e9c20.png)
 ![4](https://user-images.githubusercontent.com/5563148/232328753-a43a353c-a7e0-4991-be4f-5e52639853c5.png)
 
 手机端：
-
 ![m1](https://user-images.githubusercontent.com/5563148/232328803-2cc476ad-4ae4-480d-ae54-8c706ba19a17.jpg)
 ![m2](https://user-images.githubusercontent.com/5563148/232328806-e9b6d916-b921-465f-a427-87bcdf49bbc3.jpg)
 ![m3](https://user-images.githubusercontent.com/5563148/232328808-92102760-ab3b-40f7-b397-fe9a61eda36e.jpg)
@@ -57,7 +61,6 @@ PC端：
 ![m5](https://user-images.githubusercontent.com/5563148/232328801-ff8e6cae-3120-4286-9f10-a0bf9739a525.jpg)
 
 后台：
-
 ![b1](https://user-images.githubusercontent.com/5563148/232328835-cac61a1d-146a-4194-840f-066a599e9a83.png)
 ![b2](https://user-images.githubusercontent.com/5563148/232328836-ef739254-7f2a-4dab-a3fc-5e5698484418.png)
 ![b3](https://user-images.githubusercontent.com/5563148/232328837-c7e86353-e04d-41da-a9d3-17bae3cff137.png)
