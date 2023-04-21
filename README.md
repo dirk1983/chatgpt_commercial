@@ -50,7 +50,8 @@
 
 有购买意愿的朋友请加群咨询，名额有限，欲购从速。
 
-![qrcode](https://user-images.githubusercontent.com/5563148/232329409-5fe924a3-fa7d-4612-b401-a0a0669eff2d.jpg)
+![商业群二维码](https://user-images.githubusercontent.com/5563148/233639837-21011a05-b5c0-46c3-8d74-c11461a550f0.png)
+
 
 
 **前台界面截图如下（目前界面比较简单，后续会不断改进，欢迎大家提供好看的前端用来借鉴。）：**
