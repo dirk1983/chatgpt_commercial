@@ -62,7 +62,10 @@
 
 有购买意愿的朋友请加群咨询，名额有限，欲购从速。之前的群人满200了，懒得加好友单独拉了，有兴趣的进新群吧。
 
-![商业群二维码](https://user-images.githubusercontent.com/5563148/233762415-d8aca395-7dea-4fe6-b53c-2d985b63b02c.png)
+群内仅限咨询商业版事宜，商人、已购用户、发广告的请不要再加了，谢谢配合。
+
+![商业群二维码](https://user-images.githubusercontent.com/5563148/234458680-0cbbbbee-5117-4b98-b11f-ecba02a20ab8.png)
+
 
 
 
