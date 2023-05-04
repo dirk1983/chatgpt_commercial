@@ -67,7 +67,7 @@
 群内仅限咨询商业版事宜，商人、已购用户、发广告的请不要再加了，谢谢配合。
 
 
-![商业群二维码](https://user-images.githubusercontent.com/5563148/236248870-6b852603-5702-4aa9-8012-20fe2e7bb539.png)
+![商业群二维码](https://user-images.githubusercontent.com/5563148/236249070-968e7bf1-a745-4902-b69c-1835b859fd52.png)
 
 
 
