@@ -81,8 +81,8 @@
 
 PC端：
 ![1](https://user-images.githubusercontent.com/5563148/232329428-0388ce16-99a6-4601-9672-dc75105e5a63.png)
-![微信截图_20230422184607](https://user-images.githubusercontent.com/5563148/233779493-bdbed91c-497b-41f9-9916-ae1687f03dc2.png)
-![微信截图_20230422184536](https://user-images.githubusercontent.com/5563148/233779485-11120a84-4f10-4a17-ab0c-b3bb936309a8.png)
+![2](https://user-images.githubusercontent.com/5563148/236635324-5c63782b-41c1-4655-906c-4da0fa5fc690.png)
+![3](https://user-images.githubusercontent.com/5563148/236635331-51db1fbc-2052-47a1-8737-b23b9507e158.png)
 ![4](https://user-images.githubusercontent.com/5563148/232328753-a43a353c-a7e0-4991-be4f-5e52639853c5.png)
 
 手机端：
