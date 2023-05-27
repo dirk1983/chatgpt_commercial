@@ -71,8 +71,7 @@
 
 群内仅限咨询商业版事宜，商人、已购用户、发广告的请不要再加了，谢谢配合。
 
-![071e7aedca8c9100c07a88aac0f05da](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/6ae5fa7e-9b7e-4c4a-9a82-f71bf0608b16)
-
+![商业群二维码](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/8bd93573-e9cd-4789-b0b6-f8eba4bd2e9f)
 
 
 
