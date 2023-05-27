@@ -71,7 +71,9 @@
 
 群内仅限咨询商业版事宜，商人、已购用户、发广告的请不要再加了，谢谢配合。
 
-![商业群二维码](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/549714be-d630-445e-ba33-65447b8a75af)
+![071e7aedca8c9100c07a88aac0f05da](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/6ae5fa7e-9b7e-4c4a-9a82-f71bf0608b16)
+
+
 
 
 **前台界面截图如下（目前界面比较简单，后续会不断改进，欢迎大家提供好看的前端用来借鉴。）：**
