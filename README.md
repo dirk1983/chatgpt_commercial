@@ -66,7 +66,7 @@
 **前台界面截图如下（目前界面比较简单，后续会不断改进，欢迎大家提供好看的前端用来借鉴。）：**
 
 PC端：
-![1](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/9eb8a2cc-26a4-4abe-9e44-190181d9fbb7)
+![1](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/b41904cc-934e-4690-96a9-69d65eb729a9)
 ![2](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/3770f430-69a0-4a08-b506-6f019ce25efd)
 ![3](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/fd1d07c5-9c89-4c2f-80c2-22458440961b)
 ![4](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/857054c2-3bfb-48b5-acaa-234fe1704753)
