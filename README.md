@@ -59,7 +59,7 @@
 
 群内仅限咨询商业版事宜，商人、已购用户、发广告的请不要再加了，谢谢配合。
 
-![商业版](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/e2db9b87-8e96-4e93-904e-1274c1fa1276)
+![微信截图_20230608105659](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/7555c01b-dbfb-4adc-b8ed-b0abd9604955)
 
 **前台界面截图如下（正在适配新UI，见前文）：**
 
