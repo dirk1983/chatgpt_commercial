@@ -62,7 +62,8 @@ http://bbs.ipfei.com/forum.php?mod=forumdisplay&fid=37
 
 群内仅限咨询商业版事宜，商人、已购用户、发广告的请不要再加了，谢谢配合。
 
-![商业版](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/5b3ace49-f31e-4864-986a-67ba57b93081)
+![1687075800370](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/9483e33e-bfc4-492e-94ac-c176164c1a69)
+
 
 **前台界面截图如下（正在适配新UI，见前文）：**
 
