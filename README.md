@@ -62,7 +62,8 @@ http://bbs.ipfei.com/forum.php?mod=forumdisplay&fid=37
 
 群内仅限咨询商业版事宜，商人、已购用户、发广告的请不要再加了，谢谢配合。
 
-![image](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/0d599a6d-b0f4-41ee-9ffa-50a310070d57)
+![微信截图_20230705101239](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/efe83359-0a58-4113-a78d-c6657babd40b)
+
 
 
 
