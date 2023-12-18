@@ -1,5 +1,5 @@
 # chatgpt_commercial
-**本项目是基于我的免费开源版本 https://github.com/dirk1983/chatgpt 开发的商业版，同样使用PHP开发，没用任何框架，方便二次开发。**
+**商业版chatgpt,基于免费开源版本开发的，使用PHP开发，没用任何框架，方便二次开发。**
 
 **和我的免费开源项目相比有以下几项差异：**
 
@@ -50,16 +50,13 @@
 3. 每个购买者可加入内部论坛学习部署和安装教程，小白也能轻松搞定。
 4. 源码仅限购买者使用，请不要免费分享或转卖本项目源码，否则将永久被拉黑。君子协定，自觉遵守，唯有人品，可立一生。
 5. 测试网址：https://chat.ipfei.cn
-6. 购买链接：https://item.taobao.com/item.htm?id=713331539595
+6. 购买链接：https://item.taobao.com/item.htm?id=716487119475
 
 **版本发布日志：**
 https://bbs.ipfei.cn/forum.php?mod=forumdisplay&fid=37
 
-**有购买意愿的朋友也可以加微信好友咨询，微信小号，可能回复不会太及时**
-
-![微信截图_20230306154434](https://user-images.githubusercontent.com/5563148/223048985-4cac05cb-acf0-4f04-aad5-1c3dcec609d0.png)
-
-
+**有购买意愿的朋友也可以加微咨询**
+207708848
 
 **前台界面截图如下：**
 
