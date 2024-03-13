@@ -79,10 +79,12 @@
 4. 源码仅限购买者使用，请不要免费分享或转卖本项目源码，否则将永久被拉黑。君子协定，自觉遵守，唯有人品，可立一生。
 5. 测试网址：https://chatpro.ipfei.com
 6. 购买链接：https://item.taobao.com/item.htm?id=713331539595
-7. 由于程序代码未做加密，一旦售出无法退货，请您购买前慎重考虑。
+7. 由于程序代码未做加密，一旦售出无法退货，请您购买前考虑清楚是否真的需要。
 8. 现阶段想单纯靠网站吸引用户已经很难，除非您之前已有粉丝或用户。
 9. 本项目非常适合公司内部使用，可以学习、比较各模型差异，提高生产力等。
 10. 代码没用任何框架，没用任何composer依赖库，全是原生PHP，因此非常容易修改和二次开发。
+11. 购买本项目可以快速入门和了解AI，内部论坛上有我和其他用户写的很多相关知识、教程和免费资源。
+12. 已购用户如果愿意可以申请加入用户群，大家多多交流，多个朋友多条路。AI是通往未来的必经之路，早日进入圈子不会迷路。
 
 **版本发布日志：**
 https://bbs.ipfei.cn/forum.php?mod=forumdisplay&fid=37
@@ -172,6 +174,8 @@ https://bbs.ipfei.cn/forum.php?mod=forumdisplay&fid=37
 ![12](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/650c2e3e-8de4-4785-9411-8166039fd726)
 
 ![13](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/8aef66fa-38da-4077-ac47-817e5c4c1a00)
+
+![14](https://github.com/dirk1983/chatgpt_commercial/assets/5563148/1371c886-67c2-4292-832c-3ea0ea51442f)
 
 
 **后台：**
