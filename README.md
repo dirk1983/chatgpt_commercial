@@ -46,6 +46,7 @@
 2. 由于使用官方APIKEY成本和门槛都很高，大多数用户都是购买第三方接口的额度来调用gpt-4等模型，并且第三方接口可以支持某些官方没有的模型，如gpt-4-all，gpts上的应用gpt-4-gizmo-xxx等；
 3. Claude官方：claude-3-opus-20240229、claude-3-sonnet-20240229、claude-2.1、claude-2.0、claude-instant-1.2（Claude的所有模型均包含文本对话及识图能力）；
 4. 谷歌Bard：gemini-pro、gemini-pro-vision（识图）；
+
 *国内模型：*
 1. 文心千帆：ERNIE-Bot-turbo、ERNIE-Bot、ERNIE-Bot-4、BLOOMZ-7B、CodeLlama-7b-Instruct、Stable-Diffusion-XL（画图）；
 2. 通义千问：qwen-turbo、qwen-vl-plus（识图）；
